@@ -12,10 +12,35 @@ body{
 	color: #333;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: Georgia, "Times New Roman", Times, serif;
+	font-family: Lato, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 900;
 }
 .lead-description{
-	font-family: Georgia, serif;
+	font-family: Lato, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 900;
+}
+
+.box{
+  border-style: solid;
+  border-color: #31c87c;
+  padding: inherit;
+  padding-top: 15px;
+  padding-left: 15px;
+}
+
+.sub-header{
+  font-weight: bolder;
+}
+
+.bu{
+    color: #989898;
+    font-size: 75%;
+  text-align: center;
+}
+
+.date{
+  text-align: left;
+  font-size: 100%;
 }
 
 
